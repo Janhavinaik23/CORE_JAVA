@@ -10,7 +10,7 @@ package Client;
 		{
 			//step a
 			MMBankFactory mmbfactory=new MMBankFactory();
-		    mmbfactory).getNewSavingAccount(708326, "JANHAVI", 25000, true);
+		    mmbfactory.getNewSavingAccount(708326, "JANHAVI", 25000, true);
 			mmbfactory.getNewCurrentAccount(897585, "JUHI", 50000, 100000);
 			
 			//step b
